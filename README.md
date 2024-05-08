@@ -8,6 +8,9 @@
 - React Native
 - Firebase
 - NativeWind
+- Figma
+
+Link do projeto no [Figma](https://www.figma.com/design/6ZlcMi6yoedP3U1umCfj2P/AdoteUmPet?m=dev&node-id=0%3A1&t=2fIWnnzCsFw4OzxG-1)
 
 ## Dispositivos:
 
