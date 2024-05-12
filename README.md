@@ -18,6 +18,7 @@
 - Cross-Platform Compatibility
 
 Link do projeto no [Figma](https://www.figma.com/design/6ZlcMi6yoedP3U1umCfj2P/AdoteUmPet?m=dev&node-id=0%3A1&t=2fIWnnzCsFw4OzxG-1)
+<br/>
 Link no [Google Drive](https://docs.google.com/document/d/12Cfyu4luYyaaAeCTKt6b9j3jJhMQRBfj9po1JT-iZAM/edit?usp=sharing)
 ## Dispositivos:
 
